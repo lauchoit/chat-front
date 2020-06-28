@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~9.1.6",
     "@angular/platform-browser-dynamic": "~9.1.6",
     "@angular/router": "~9.1.6",
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
+    "laravel-echo": "^1.8.0",
+    "ngx-toastr": "^12.1.0",
     "rxjs": "~6.5.4",
+    "scroll-js": "^3.2.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
